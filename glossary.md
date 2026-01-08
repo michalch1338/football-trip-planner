@@ -75,3 +75,27 @@ Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
 
 Markdown - prosty i intuicyjny język znaczników, który pozwala formatować tekst bez skomplikowanego kodu
 Src: https://mmcschool.pl/frontend/markdown-kompletny-poradnik-dla-poczatkujacych/9348/
+
+Klasa - szablon do tworzenia obiektów, definiuje jakie dane i funkcje będą miały obiekty utworzone z tej klasy
+Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
+
+Obiekt - łączy dane i funkcje działające na tych danych, jest instancją klasy
+Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
+
+Pole - atrybut, które charakteryzuje obiekt np. wiek, imię
+Src: Google AI
+
+Typ danych - określa rodzaj wartości jaką może przechowywać zmienna
+Src: Google AI & https://amplitude.com/blog/data-types
+
+JSON - format wymiany danych, który umożliwia standaryzowaną i wydajną wymianę danych między różnymi systemami
+Src: https://www.oracle.com/pl/database/what-is-json/
+
+Seed danych - proces wypełniania bazy danych przykładowymi lub początkowymi danymi, które są potrzebne do działania aplikacji
+Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
+
+Parsowanie - proces analizy i konwersji danych na inną bardziej użyteczną strukturę
+Src: Google AI & https://www.reddit.com/r/learnprogramming/comments/732mdc/what_does_parse_mean/?tl=pl
+
+Obsługa błędów - zarządzanie i reagowanie na nieoczekiwane zdarzenia w systemie podczas działania programów, aby zapobiec jego awarii i zapewnić schludne zakończenie pracy programu jeśli pojawi się błąd
+Src: https://appmaster.io/pl/glossary/obsluga-bledow & Google AI
