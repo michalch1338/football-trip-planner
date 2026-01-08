@@ -60,3 +60,18 @@ Src: https://blog.theprotocol.it/slownik-it/build
 
 Run - uruchomienie aplikacji
 Src: moja wiedza
+
+Programowanie - proces tworzenia programu komputerowego posługując się kodem źródłowym
+Src: https://www.naukowiec.org/wiedza/informatyka/programowanie-czym-jest_3656.html
+
+Język programowania - zbiór instrukcji napisanych przez programistę w celu dostarczenia instrukcji do komputera
+Src: https://dhosting.pl/pomoc/baza-wiedzy/czym-jest-jezyk-programowania/
+
+Backend - część strony działająca po stronie serwera, która odpowiada m.in. za logikę działania systemu
+Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
+
+Dokumentacja - zbiór opisów i instrukcji, które wyjaśniają jak działa system lub aplikacja
+Src: https://chatgpt.com/c/695f643b-b060-832e-af51-8778ebce80b2
+
+Markdown - prosty i intuicyjny język znaczników, który pozwala formatować tekst bez skomplikowanego kodu
+Src: https://mmcschool.pl/frontend/markdown-kompletny-poradnik-dla-poczatkujacych/9348/
