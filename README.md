@@ -12,4 +12,22 @@ Projekt jest planerem wycieczek, który wspiera decyzje biznesowe. Aplikacja ma 
 4. Jak go uruchomić?
 Trzeba włączyć cmd i za pomocą change directory zmienić folder na ten, w którym znajduje się projekt. Następie, kiedy jesteśmy w dobrym folderze trzeba napisać komendę "dotnet run", aby ruchomić program.
 
+5. Główne sekcje seed.json
+   cities:
+     - id
+     - name (nazwa miasta)
+     - country (nazwa kraju, w którym znajduje się miasto)
+   matches:
+     - id
+     - homeTeam (nazwa klubu gospodarzy spotkania)
+     - awayTeam (nazwa klubu gości spotkania)
+     - kickoffUtc (data i godzina rozpoczęcia meczu)
+     - cityId (miasto klubu gospodarzy zdefiniowane przez cityId)
+   attractions:
+     - id
+     - cityId (miasto zdefiniowane przez cityId)
+     - name (nazwa atrakcji)
+     - description (opis atrakcji)
 
+6. Jak są ze sobą powiązane?
+Matches i attractions są powiązane do cities przez pole cityId.. Dzięki temu możemy zobaczyć gdzie znajduje się dany mecz i jakie atrakcje bedą w tym mieście. 
